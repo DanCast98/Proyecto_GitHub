@@ -1,0 +1,8 @@
+public class Codigo{
+	public static void main(String arg[]){
+	
+	System.out.printl("Hola mundo);
+	
+	
+	}
+}

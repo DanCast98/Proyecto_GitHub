@@ -1,5 +1,6 @@
 public class Codigo{
 	public static void main(String arg[]){
+	int arr[]=new int[10];
 	
 	System.out.printl("Hola mundo);
 	
